@@ -1,5 +1,5 @@
 # passgen
 Simple bash script to generate password 
-#Use: 
+# Use: 
 sh passgen.sh 
 
